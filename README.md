@@ -20,8 +20,10 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.
 
 
 SQLite
-Install lite database
+Install Lite Database
+
 https://sqlite.org/download.html
+
 
 # HADOOP--HIVE--READY-INSTALLATION
 Download Steps for Hadoop background Framework and Hive
