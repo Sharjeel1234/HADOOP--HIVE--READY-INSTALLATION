@@ -82,9 +82,18 @@ After Download Installation Steps
 
 
 
+# R Program List
+
+
+
+
+
+
 by Sharjeel Imtiaz
 
-University of EAST London
+
+PhD from University of EAST London
+
 
 send questions at sharjeel_ii@hotmail.com
 
