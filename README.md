@@ -78,3 +78,13 @@ After Download Installation Steps
 8.DERBY_HOME=C:\derby   
 
 9.HADOOP_USER_CLASSPATH_FIRST=true
+
+
+
+
+by Sharjeel Imtiaz
+
+University of EAST London
+
+send questions at sharjeel_ii@hotmail.com
+
