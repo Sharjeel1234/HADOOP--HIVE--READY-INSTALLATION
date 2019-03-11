@@ -1,5 +1,14 @@
+# RStudio and R installation 
+
+Download Open Source License RStudio Desktop
+
+https://www.rstudio.com/products/rstudio/download/
+
+
+Download R version 
+
 # HADOOP--HIVE--READY-INSTALLATION
-Download Steps
+Download Steps for Hadoop background Framework and Hive
 
 Hadoop-2.8.3.rar
 1. https://drive.google.com/open?id=1GFRlv4677gv56fm8LKKoGr0WyAly2nK0
@@ -16,9 +25,9 @@ installationBatchFile.rar
 
 4. https://drive.google.com/open?id=1g1H5O9noOkYg1LUfjAtLwM2KghFO2_ju
 
-4.1 check the path in batch file that must be at C:\ root for 4 batch file. 
+          4.1 check the path in batch file that must be at C:\ root for 4 batch file. 
 
-4.2 run batch files based on preferences and number
+          4.2 run batch files based on preferences and number
 
 After Download Installation Steps
 
