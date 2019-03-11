@@ -7,6 +7,22 @@ https://www.rstudio.com/products/rstudio/download/
 
 Download R version 
 
+https://cran.r-project.org/bin/windows/base/old/3.4.3/
+
+Download and Install
+
+JDK 
+
+install JDK version jdk1.8.0_66 or higher if other version then follow these step
+
+
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+
+SQLite
+Install lite database
+https://sqlite.org/download.html
+
 # HADOOP--HIVE--READY-INSTALLATION
 Download Steps for Hadoop background Framework and Hive
 
